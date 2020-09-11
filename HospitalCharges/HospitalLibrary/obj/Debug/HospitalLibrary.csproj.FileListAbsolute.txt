@@ -1,0 +1,6 @@
+F:\CSC 253-C#\HospitalCharges\HospitalLibrary\bin\Debug\HospitalLibrary.dll
+F:\CSC 253-C#\HospitalCharges\HospitalLibrary\bin\Debug\HospitalLibrary.pdb
+F:\CSC 253-C#\HospitalCharges\HospitalLibrary\obj\Debug\HospitalLibrary.csprojAssemblyReference.cache
+F:\CSC 253-C#\HospitalCharges\HospitalLibrary\obj\Debug\HospitalLibrary.csproj.CoreCompileInputs.cache
+F:\CSC 253-C#\HospitalCharges\HospitalLibrary\obj\Debug\HospitalLibrary.dll
+F:\CSC 253-C#\HospitalCharges\HospitalLibrary\obj\Debug\HospitalLibrary.pdb
