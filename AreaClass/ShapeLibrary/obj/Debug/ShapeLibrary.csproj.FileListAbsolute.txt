@@ -1,0 +1,6 @@
+F:\CSC 253-C#\AreaClass\ShapeLibrary\bin\Debug\ShapeLibrary.dll
+F:\CSC 253-C#\AreaClass\ShapeLibrary\bin\Debug\ShapeLibrary.pdb
+F:\CSC 253-C#\AreaClass\ShapeLibrary\obj\Debug\ShapeLibrary.csprojAssemblyReference.cache
+F:\CSC 253-C#\AreaClass\ShapeLibrary\obj\Debug\ShapeLibrary.csproj.CoreCompileInputs.cache
+F:\CSC 253-C#\AreaClass\ShapeLibrary\obj\Debug\ShapeLibrary.dll
+F:\CSC 253-C#\AreaClass\ShapeLibrary\obj\Debug\ShapeLibrary.pdb
