@@ -1,6 +1,0 @@
-F:\CSC 253-C#\RetailPriceCalculator\ClassLibrary\bin\Debug\ClassLibrary.dll
-F:\CSC 253-C#\RetailPriceCalculator\ClassLibrary\bin\Debug\ClassLibrary.pdb
-F:\CSC 253-C#\RetailPriceCalculator\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
-F:\CSC 253-C#\RetailPriceCalculator\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
-F:\CSC 253-C#\RetailPriceCalculator\ClassLibrary\obj\Debug\ClassLibrary.dll
-F:\CSC 253-C#\RetailPriceCalculator\ClassLibrary\obj\Debug\ClassLibrary.pdb
