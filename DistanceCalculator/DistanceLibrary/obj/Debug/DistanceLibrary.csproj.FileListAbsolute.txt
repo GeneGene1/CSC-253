@@ -1,0 +1,6 @@
+F:\CSC 253-C#\DistanceCalculator\DistanceLibrary\bin\Debug\DistanceLibrary.dll
+F:\CSC 253-C#\DistanceCalculator\DistanceLibrary\bin\Debug\DistanceLibrary.pdb
+F:\CSC 253-C#\DistanceCalculator\DistanceLibrary\obj\Debug\DistanceLibrary.csprojAssemblyReference.cache
+F:\CSC 253-C#\DistanceCalculator\DistanceLibrary\obj\Debug\DistanceLibrary.csproj.CoreCompileInputs.cache
+F:\CSC 253-C#\DistanceCalculator\DistanceLibrary\obj\Debug\DistanceLibrary.dll
+F:\CSC 253-C#\DistanceCalculator\DistanceLibrary\obj\Debug\DistanceLibrary.pdb
