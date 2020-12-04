@@ -1,0 +1,9 @@
+F:\CSC 253-C#\CarClass\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+F:\CSC 253-C#\CarClass\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+F:\CSC 253-C#\CarClass\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+F:\CSC 253-C#\CarClass\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+F:\CSC 253-C#\CarClass\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+F:\CSC 253-C#\CarClass\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+F:\CSC 253-C#\CarClass\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+F:\CSC 253-C#\CarClass\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+F:\CSC 253-C#\CarClass\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
