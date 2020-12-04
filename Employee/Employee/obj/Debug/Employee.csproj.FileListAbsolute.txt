@@ -1,0 +1,12 @@
+F:\CSC 253-C#\Employee\Employee\bin\Debug\Personnel.mdf
+F:\CSC 253-C#\Employee\Employee\bin\Debug\Personnel_log.ldf
+F:\CSC 253-C#\Employee\Employee\bin\Debug\Employee.exe.config
+F:\CSC 253-C#\Employee\Employee\bin\Debug\Employee.exe
+F:\CSC 253-C#\Employee\Employee\bin\Debug\Employee.pdb
+F:\CSC 253-C#\Employee\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+F:\CSC 253-C#\Employee\Employee\obj\Debug\Employee.Form1.resources
+F:\CSC 253-C#\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+F:\CSC 253-C#\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+F:\CSC 253-C#\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+F:\CSC 253-C#\Employee\Employee\obj\Debug\Employee.exe
+F:\CSC 253-C#\Employee\Employee\obj\Debug\Employee.pdb
