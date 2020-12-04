@@ -1,0 +1,7 @@
+F:\CSC 253-C#\PigLatin\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\CSC 253-C#\PigLatin\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\CSC 253-C#\PigLatin\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\CSC 253-C#\PigLatin\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+F:\CSC 253-C#\PigLatin\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+F:\CSC 253-C#\PigLatin\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\CSC 253-C#\PigLatin\ConsoleUI\obj\Debug\ConsoleUI.pdb
