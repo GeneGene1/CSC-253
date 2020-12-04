@@ -1,0 +1,11 @@
+how many random numbers the file will hold and should be saved to a user-specific file name? 
+68
+18
+31
+4
+16
+100
+79
+23
+90
+27
