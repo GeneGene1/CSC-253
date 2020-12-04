@@ -1,0 +1,6 @@
+F:\CSC 153-C#\EmployeeInformation\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+F:\CSC 153-C#\EmployeeInformation\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+F:\CSC 153-C#\EmployeeInformation\EmployeeLibrary\obj\Debug\EmployeeLibrary.csprojAssemblyReference.cache
+F:\CSC 153-C#\EmployeeInformation\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+F:\CSC 153-C#\EmployeeInformation\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
+F:\CSC 153-C#\EmployeeInformation\EmployeeLibrary\obj\Debug\EmployeeLibrary.csproj.CoreCompileInputs.cache
